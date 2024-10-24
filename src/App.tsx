@@ -3,7 +3,6 @@ import { useGSAP } from '@gsap/react';
 // import { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import LandingPage from './views/LandingPage';
-import Register from './views/Register';
 import Event from './views/Event';
 const App = () => {
 
@@ -28,7 +27,6 @@ const App = () => {
     <Router>
       <Routes>
         <Route path='/' element={<LandingPage />} />
-        <Route path='/register' element={<Register />} />
         <Route path='/events' element={<Event />} />
       </Routes>
     </Router>
