@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/Components/Sidebar.tsx","./src/Components/SubSidebar.tsx","./src/constants/index.ts","./src/utils/index.ts","./src/views/LandingPage.tsx","./src/views/Events/Basketball.tsx","./src/views/Events/Event.tsx","./src/views/Events/Football.tsx","./src/views/Events/Components/MatchCard.tsx"],"version":"5.6.3"}
